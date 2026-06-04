@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently working on jailbreaking my game consoles.
 <!--
 **AngelSonSSG/AngelSonSSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
